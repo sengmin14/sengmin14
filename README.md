@@ -15,6 +15,8 @@ Developer / Algorithm Learner
   - Department of Information Communications Engineering
 - Samsung SDI Hungary(2019. 01 ~ 2021. 04)
   - Planning Group
+- Kyungnam College of Information & Technologyy(2015. 03 ~ 2019. 02)
+  - Electrical Engineering
 
 
 <h2>📃 BOJ / Solved.ac</h2>
