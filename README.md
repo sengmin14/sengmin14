@@ -30,7 +30,7 @@ Developer / Algorithm Learner
 
 <h3>Projects</h3>
 
-* [Fattle]() : WebRTC를 통한 다이어트 배틀 서비스
+* [Fattle](https://github.com/sengmin14/FATTLE) : WebRTC를 통한 다이어트 배틀 서비스
 * [도로로](https://github.com/do-ro-ro/dororo) : 사용자 기반 도로 추천 및 도로 커스텀 서비스
 * [Autocazing]() : 개인 카페를 위한 자동 발주 서비스 
 
