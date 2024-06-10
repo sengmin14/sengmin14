@@ -30,7 +30,10 @@ Developer / Algorithm Learner
 
 <h3>Projects</h3>
 
+* [Autocazing](https://github.com/sengmin14/Autocazing) : 개인 카페를 위한 자동 발주 서비스
+* [도로로](https://github.com/do-ro-ro/dororo) : 사용자 기반 도로 추천 및 도로 커스텀 서비스 
 * [Fattle](https://github.com/sengmin14/FATTLE) : WebRTC를 통한 다이어트 배틀 서비스
-* [도로로](https://github.com/do-ro-ro/dororo) : 사용자 기반 도로 추천 및 도로 커스텀 서비스
-* [Autocazing]() : 개인 카페를 위한 자동 발주 서비스 
 
+<h3>CS 정리</h3>
+
+* [CS-Study](https://github.com/sengmin14/CS-Study) : 신입 개발자 전공 지식 & 기술
