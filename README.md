@@ -37,4 +37,7 @@ Developer / Algorithm Learner
 <h3>CS 정리</h3>
 
 * [CS-Study](https://github.com/sengmin14/CS-Study) : 신입 개발자 전공 지식 & 기술
+
+<h3>알고리즘</h3>
+
 * [Algorithm](https://github.com/sengmin14/Algorithm) : Study Algorithms
