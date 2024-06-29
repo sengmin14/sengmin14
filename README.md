@@ -1,4 +1,4 @@
-<h2>🙋‍♂️ Profile</h2>
+<h2>🥕 Profile</h2>
 
 Developer / Algorithm Learner
 
@@ -26,7 +26,7 @@ Developer / Algorithm Learner
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sengmin14)](https://solved.ac/sengmin14/)
 
-* <h2>📁 Study Note</h2>
+<h2>📁 Study Note</h2>
 
 <h3>Projects</h3>
 
